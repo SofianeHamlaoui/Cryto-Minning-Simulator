@@ -1,4 +1,9 @@
 # Cryto-Minning-Simulator
+
+
+> :warning:  **This is just a simulator**
+
+
 A Simple Crypto Minning Simulator for my Youtube Bitcoin Explanations
 ![X](https://i.imgur.com/3VVq3nd.png)
 
